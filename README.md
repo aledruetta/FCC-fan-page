@@ -1,1 +1,2 @@
-# FCC
+# freeCodeCamp Fan Page Project
+
